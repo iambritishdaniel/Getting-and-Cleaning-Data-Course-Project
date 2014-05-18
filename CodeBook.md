@@ -94,7 +94,7 @@ for each of the observations grouped by subject identifier and activity.
 
 The columns in this file mirror those in `tidy_data.txt`, but include the 
 additional "mean_" prefix only the column labels to differentiate between the 
-two data sets:
+two data sets. The data set is 180 rows of 68 columns:
 
  1. `mean_time_body_acceleration_mean_xaxis`                                 
  1. `mean_time_body_acceleration_mean_yaxis`                                 
