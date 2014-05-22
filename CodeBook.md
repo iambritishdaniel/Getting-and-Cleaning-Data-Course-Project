@@ -93,7 +93,7 @@ The data set contains 10299 rows of 68 columns. The columns are as follows:
 for each of the observations grouped by subject identifier and activity.
 
 The columns in this file mirror those in `tidy_data.txt`, but include the 
-additional "mean_" prefix only the column labels to differentiate between the 
+additional "mean_" prefix on the column labels to differentiate between the 
 two data sets. The data set is 180 rows of 68 columns:
 
  1. `mean_time_body_acceleration_mean_xaxis`                                 
